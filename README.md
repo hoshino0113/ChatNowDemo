@@ -1,4 +1,4 @@
-**Chatow!**
+**ChatNow!**
 # **Greetings!**
 This is the final product of our ChatNow!(Gaggle) project.
 # Please email me for the source code
