@@ -1,6 +1,7 @@
 **ChatNow!**
 # **Greetings!**
-This is the final product of our ChatNow!(Gaggle) project.
+This is the final product(apk) of our ChatNow!(Gaggle) project.
+Unfortunately, our firebase has been shutdown, so all the online features are offline :( I am sorry!
 # Please email me for the source code
 
 # **Project Description:**
