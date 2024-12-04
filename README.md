@@ -1,4 +1,4 @@
-**ChatNow!**
+**ChatNow!(Orignal name:UWGaggle)**
 # **Greetings!**
 This is the final product(apk) of our ChatNow!(Gaggle) project.
 Unfortunately, our firebase has been shutdown, so all the online features are offline :( I am sorry!
